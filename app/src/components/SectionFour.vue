@@ -24,7 +24,7 @@
           light and color.
         </p>
       </div>
-      <img src="images/pic4.png" alt="" />
+      <img src="/pic4.png" alt="" />
     </div>
   </div>
 </template>

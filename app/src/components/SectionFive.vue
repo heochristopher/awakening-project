@@ -1,7 +1,7 @@
 <template>
   <div class="">
     <div class="container">
-      <img src="images/pic5.png" alt="" />
+      <img src="/pic5.png" alt="" />
       <div class="wrapper">
         <h2 class="stage">Stage 5: Solitude, 1923</h2>
         <p class="description">

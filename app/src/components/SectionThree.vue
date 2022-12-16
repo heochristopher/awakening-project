@@ -1,7 +1,7 @@
 <template>
   <div class="">
     <div class="container">
-      <img src="images/pic3.png" alt="" />
+      <img src="/pic3.png" alt="" />
       <div class="wrapper">
         <h2 class="stage">Stage 3: Desolation, 1906</h2>
         <p class="description">

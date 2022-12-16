@@ -1,7 +1,7 @@
 <template>
   <div class="">
     <div class="container">
-      <img src="images/pic1.png" alt="" />
+      <img src="/pic1.png" alt="" />
       <div class="wrapper">
         <h2 class="stage">Stage 1: Extravagance, 1896</h2>
         <p class="">

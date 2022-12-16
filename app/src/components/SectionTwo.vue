@@ -26,7 +26,7 @@
           death.
         </p>
       </div>
-      <img src="images/pic2.png" alt="" />
+      <img src="/pic2.png" alt="" />
     </div>
   </div>
 </template>
