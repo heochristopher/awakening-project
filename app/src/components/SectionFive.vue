@@ -5,13 +5,29 @@
       <div class="wrapper">
         <h2 class="stage">Stage 5: Solitude, 1923</h2>
         <p class="description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+          <span class="type">Composition:</span> the painting's focus on Leonce
+          and his hut in the wilderness suggests a sense of isolation and
+          solitude. The depiction of Leonce as a hermit represents his desire to
+          retreat from society and find solace in nature. The use of a Romantic
+          style, with its emphasis on emotion and imagination, adds to the sense
+          of introspection and contemplation in the painting. The bright light
+          within the small hut could be seen as symbolizing hope and inner
+          illumination, suggesting that Leonce has found some measure of peace
+          and enlightenment in his solitude. <br /><br /><span class="type"
+            >Style:</span
+          >
+          the muted, atmospheric colors used in the wilderness scene suggest a
+          sense of mystery and contemplation, while the bright light within the
+          hut adds a sense of warmth and hope. <br /><br /><span class="type"
+            >Interpretation:</span
+          >
+          the painting evokes a sense of solitude and introspection, and
+          suggests that even in the midst of loss and hardship, individuals can
+          find meaning and purpose in their own inner journey. In terms of its
+          time period, this painting could be considered an example of
+          romanticism, a movement that emerged in the late 18th and early 19th
+          centuries and focused on emotion, imagination, and the celebration of
+          nature.
         </p>
       </div>
     </div>
