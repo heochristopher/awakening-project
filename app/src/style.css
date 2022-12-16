@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;900&family=Vollkorn:wght@600&display=swap');
+
+h1,
+h2,
+h3 {
+  font-family: 'Vollkorn', serif;
+}
+
+h4,
+h5,
+h6,
+p,
+li,
+label,
+button,
+input,
+textarea,
+a,
+span {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {font-size: 2.488rem;}
+
+h2 {font-size: 2.074rem;}
+
+h3 {font-size: 1.728rem;}
+
+h4 {font-size: 1.44rem;}
+
+h5 {font-size: 1.2rem;}
+
+h6 {font-size: 1rem;}
+
+p {
+  text-align: left;
+}
+
+html {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.fp-watermark {
+  opacity: 0 !important;
+}
+
+span.type {
+  font-weight: bold;
+}
