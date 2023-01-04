@@ -58,7 +58,7 @@ img {
 }
 
 .wrapper {
-  width: 45%;
+  width: 50%;
 }
 
 @media (max-width: 1200px) {

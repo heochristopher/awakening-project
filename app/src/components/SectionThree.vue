@@ -54,7 +54,7 @@ img {
 }
 
 .wrapper {
-  width: 45%;
+  width: 50%;
 }
 
 span.type {
