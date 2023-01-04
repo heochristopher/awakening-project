@@ -47,7 +47,7 @@ img {
 }
 
 .stage {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .container {
@@ -58,6 +58,16 @@ img {
 }
 
 .wrapper {
-  width: 40%;
+  width: 45%;
+}
+
+@media (max-width: 1200px) {
+  img {
+    width: 20rem;
+    height: 20rem;
+  }
+  .wrapper {
+    width: 60%;
+  }
 }
 </style>
